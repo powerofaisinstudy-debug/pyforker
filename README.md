@@ -1,6 +1,6 @@
-# pyforker
+<img src="logo2.png" alt="pyforker icon" width="600">
 
-<img src="logo2.png" alt="pyforker icon">
+# pyforker
 
 **Production-Grade Python Library Extractor & Server Engine**
 
