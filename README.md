@@ -51,7 +51,7 @@
                          +---------------------------+
 ```
 
-##  PyForker Bot
+##  PyForker Bot 🤖
 
 PyForker includes a dedicated GitHub automation bot for issue triage, labeling, and automated comments. See pyforker-bot.md for details.
 
