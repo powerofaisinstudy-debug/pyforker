@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="logo2.PNG" alt="pyforker logo" width="600"/>
+  <img src="logo2.png" alt="pyforker logo" width="600"/>
 </p>
 
 
