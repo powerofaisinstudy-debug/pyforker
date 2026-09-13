@@ -1,7 +1,7 @@
 # pyforker
 
 <p align="center">
-  <img src="logo.png" alt="pyforker logo" width="600"/>
+  <img src="logo.PNG" alt="pyforker logo" width="600"/>
 </p>
 
 **Production-Grade Single-File Python Library Extractor & Server Engine**
