@@ -57,6 +57,7 @@
                          |  Storage & File Locks     |
                          |  (pyforker.json Manifest) |
                          +---------------------------+
+```
 InstallationFrom Source (Editable Mode)Clone your repository and install the binary link locally:Bashgit clone [https://github.com/your-username/pyforker.git](https://github.com/your-username/pyforker.git)
 cd pyforker
 pip install -e .
