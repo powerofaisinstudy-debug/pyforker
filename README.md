@@ -50,6 +50,11 @@
                          |  (pyforker.json Manifest) |
                          +---------------------------+
 ```
+
+##  PyForker Bot
+
+PyForker includes a dedicated GitHub automation bot for issue triage, labeling, and automated comments. See pyforker-bot.md for details.
+
 Installation
 From Source (Editable Mode)
 Clone your repository and install the binary link locally:
@@ -128,6 +133,4 @@ JSON
 
 
 
-##🤖 PyForker Bot
 
-PyForker includes a dedicated GitHub automation bot for issue triage, labeling, and automated comments. See pyforker-bot.md for details.
