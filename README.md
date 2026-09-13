@@ -5,7 +5,7 @@
 </p>
 
 
-**Production-Grade Single-File Python Library Extractor & Server Engine**
+**Production-Grade  Python Library Extractor & Server Engine**
 
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
